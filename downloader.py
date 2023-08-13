@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 # URL of the website you want to download images from
-website_url = 'https://worldtravelling.com/50-mind-bending-dark-comics-unravel-the-twisted-world-of-spaceboycantlol/28/?utm_source=Facebook&utm_medium=FB&utm_campaign=DUP%20GZM_WWide_Vidazoo_WB_SpaceBoy%20Comics_P4_NSO%20-%20vv8WT%20WT%20FB%20WW%20DS&utm_term=23858071072770342&layout=inf3&vtype=3&fbclid=IwAR2nmSGXQhaZMEfHWqlE0ExhZ9v9pzCKxSxBXqe42-fg8becpgjMLeeG1TE'
+website_url = 'https://<YOURE WEBSITE ADDRESS>'
 
 # Directory to save downloaded images
 output_dir = 'downloaded_images'
